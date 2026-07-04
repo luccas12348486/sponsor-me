@@ -1,0 +1,39 @@
+{
+  "version": "1.0",
+  "sponsor_tiers": [
+    {
+      "name": "Supporter",
+      "monthly_price_in_dollars": 5,
+      "description": "Basic supporter tier — name on sponsor wall, early access",
+      "perks": [
+        "Name on sponsor wall in all repos",
+        "Early access to new projects",
+        "Priority GitHub responses"
+      ]
+    },
+    {
+      "name": "Accelerator",
+      "monthly_price_in_dollars": 20,
+      "description": "Get priority support and voting power",
+      "perks": [
+        "Everything in Supporter",
+        "Priority bug fixes for open-source tools",
+        "Direct Discord/Slack support channel",
+        "Monthly progress reports",
+        "Vote on project roadmap"
+      ]
+    },
+    {
+      "name": "Custom Work",
+      "monthly_price_in_dollars": 50,
+      "description": "Custom feature development and consultation",
+      "perks": [
+        "Everything in Accelerator",
+        "One custom feature/tool per month",
+        "30-min consultation call per month",
+        "White-label rights to selected tools",
+        "Direct email access"
+      ]
+    }
+  ]
+}
